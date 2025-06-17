@@ -25,7 +25,7 @@ A full-stack e-commerce platform for home security products built with Next.js, 
 
 1. Clone the repository
 ```sh
-git clone <repository-url>
+git clone https://github.com/MR-PROFESSOR-790/Home-security.git
 cd Home-security
 ```
 
